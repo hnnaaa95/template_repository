@@ -25,7 +25,7 @@ python src/main.py
 ## 4. Markdown Syntax
 
 
-### 헤더(Header)
+### 1. 헤더(Header)
 
 
 # 헤더 크기 (h1) 
@@ -36,7 +36,7 @@ python src/main.py
 ###### 해더 크기 (h6)
 
 
-### 목록(List)
+### 1. 목록(List)
 
 
 Unordered 
