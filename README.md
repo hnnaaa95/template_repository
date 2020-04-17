@@ -25,7 +25,7 @@ python src/main.py
 ## 4. Markdown Syntax
 
 
-### 1. 헤더(Header)
+### 4-1. 헤더(Header)
 
 
 # 헤더 크기 (h1) 
@@ -36,7 +36,7 @@ python src/main.py
 ###### 해더 크기 (h6)
 
 
-### 1. 목록(List)
+### 4-2. 목록(List)
 
 
 Unordered 
@@ -52,7 +52,7 @@ Ordered
     1. Item 3a 
     1. Item 3b
 
-### 이미지(Images)
+### 4-3. 이미지(Images)
 
 
 첫번째 방법 
@@ -63,12 +63,12 @@ Format: ![이미지 alt명](url 링크)
 <a href="#"><img src="https://github.com/hyeonukbhin/assets/images/markdown_syntax.jpg" width="400px" alt="sample image"></a> 
 Format: img 태그 사용 - 이미지경로는 상대경로 or 절대경로
 
-### 하이퍼링크(HyperLink)
+### 4-4. 하이퍼링크(HyperLink)
 
 
 [GitHub](http://github.com "깃허브")
 
-### 코드 블록(Code Blocks)
+### 4-5. 코드 블록(Code Blocks)
 
 
 ```javascript 
@@ -80,7 +80,7 @@ function test() {
 코드 스타일은 링크 참조 [GitHub](http://haroopress.com/post/fenced-code-block/, "코드 블럭 스타일")
 
 
-### 인용 상자(Blockquotes)
+### 4-6. 인용 상자(Blockquotes)
 
 
 As Grace Hopper said: 
@@ -89,7 +89,7 @@ As Grace Hopper said:
 > in the future than in the past.
 
 
-### 강조(Emphasis)
+### 4-7. 강조(Emphasis)
 
 
 *This text will be italic* 
@@ -101,7 +101,7 @@ __This will also be bold__
 *You **can** combine them*
 
 
-### 테이블(Tables)
+### 4-8. 테이블(Tables)
 
 
 First Header | Second Header 
@@ -109,7 +109,7 @@ First Header | Second Header
 Content cell 1 | Content cell 2 
 Content column 1 | Content column 2
 
-### 체크박스(Check Boxs)
+### 4-9. 체크박스(Check Boxs)
 
 
 - [x] this is a complete item 
@@ -118,20 +118,20 @@ Content column 1 | Content column 2
 - [x] list syntax required (any unordered or ordered list supported)
 
 
-### 인라인 코드(Inline Code)
+### 4-10. 인라인 코드(Inline Code)
 
 
 문단 중간에 `Code`를 넣을 수 있습니다. 
 예를 들어 `printf("hello world!");` 이런 식으로 들어갑니다.
 
-### 수평선(Horizontal Line)
+### 4-11. 수평선(Horizontal Line)
 
 
 --- 
 *** 
 ___
 
-### 탈출 문자(Backslash Escapes)
+### 4-12. 탈출 문자(Backslash Escapes)
 
 
 ＼*literal asterisks＼* 
@@ -140,14 +140,14 @@ __＼*＼*Text＼*＼*__
 _＼_Tom＼__
 
 
-### Github 이모지(EMOJI)
+### 4-13. Github 이모지(EMOJI)
 
 
 GitHub supports emoji! 
 :+1: :sparkles: :camel: :tada: 
 :rocket: :metal: :octocat:
 
-### 뱃지(Badge)
+### 4-14. 뱃지(Badge)
 
 
 작성 예시 
