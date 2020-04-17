@@ -18,7 +18,7 @@ sudo pip3 install -r requiremets.txt
 ## 3. Usage
 
 ```bash
-python3 main.py
+python src/main.py
 ```
 
 
