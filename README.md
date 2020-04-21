@@ -17,10 +17,15 @@ sudo pip3 install -r requiremets.txt
 
 
 ## 3. Usage
-
+Use upper 3.x python version
 ```bash
-python src/main.py
+./src/main.py
 ```
+or
+```bash
+python3 src/main.py
+```
+
 
 
 ## 4. Markdown Syntax
